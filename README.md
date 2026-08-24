@@ -27,3 +27,9 @@ The training command uses deterministic demo data when no CSV is present, so the
 - `models/`: generated model artifacts
 
 The generated artifact includes the full preprocessing pipeline and evaluation metrics. Accuracy and ROC-AUC are printed after training rather than hard-coded, because they depend on the supplied dataset.
+
+## Future improvements
+
+- Add SHAP values for per-customer explainability.
+- Compare additional ensemble models and tune the recall/precision tradeoff.
+- Deploy the Flask interface as a live web app.
