@@ -1,4 +1,4 @@
-# Customer Churn Prediction System
+# Customer Churn Risk Prediction
 
 A reproducible telecom churn baseline that cleans the IBM/Kaggle Telco Customer Churn CSV, engineers service and charge features, trains a class-weighted Random Forest, and exposes predictions through a CLI or Flask form.
 
