@@ -1,0 +1,1 @@
+Place exploratory analysis notebooks in this directory. Keep raw data in data/raw rather than committing customer records.
