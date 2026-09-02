@@ -18,6 +18,7 @@ The training command uses deterministic demo data when no CSV is present, so the
 
 ## Project structure
 
+
 - `data/raw/`: source CSV files
 - `data/processed/`: optional exported datasets
 - `notebooks/`: EDA notebooks
